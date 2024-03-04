@@ -4,6 +4,9 @@ Repository with every file related to my Master's Thesis, "Solving systems of eq
 Main topics: quantum computing, variational algorithms, and quantum annealing <br>
 Other topics: MQ problems and optimization problems
 
+Supervisor: Prof. Marco Pedicini <br>
+Co-Supervisor: Dr. Massimo Bernaschi
+
 
 ## Repository "GateModel_experiments"
 This repository contains the Jupyter Notebooks and the auxiliary files concerning the experiments on the VQLS for linear systems [1] and the QAOA for the MQ problem with 5 bits (MQ5).
