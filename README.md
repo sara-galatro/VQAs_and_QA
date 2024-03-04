@@ -1,7 +1,7 @@
 # VQAs_and_QA
 Repository with every file related to my Master's Thesis, "Solving systems of equations through quantum computing: from Variational Quantum Algorithms to Quantum Annealing". 
 
-Main topics: quantum computing, variational algorithms, and quantum annealing
+Main topics: quantum computing, variational algorithms, and quantum annealing <br>
 Other topics: MQ problems and optimization problems
 
 
@@ -23,5 +23,5 @@ In more detail:
 
 
 ## Main references
-[1] "Variational Quantum Linear Solver", by Carlos Bravo-Prieto, Ryan LaRose, M. Cerezo, Yigit Subasi, Lukasz Cincio, Patrick J. Coles, https://arxiv.org/abs/1909.05820
+[1] "Variational Quantum Linear Solver", by Carlos Bravo-Prieto, Ryan LaRose, M. Cerezo, Yigit Subasi, Lukasz Cincio, Patrick J. Coles, https://arxiv.org/abs/1909.05820 <br>
 [2] "Solving systems of Boolean multivariate equations with quantum annealing", by Sergi Ramos-Calderer, Carlos Bravo-Prieto, Ruge Lin, Emanuele Bellini, Marc Manzano, Najwa Aaraj, and José I. Latorre, https://arxiv.org/abs/2111.13224
